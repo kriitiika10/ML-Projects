@@ -1,4 +1,3 @@
-# ML-Projects
 
 # House Price Prediction: A Comparative Study of ML Models
 
